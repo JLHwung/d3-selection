@@ -9,6 +9,10 @@
     "selection",
     "data-join"
   ],
+  "files": [
+    "src",
+    "dist"
+  ],
   "homepage": "https://d3js.org/d3-selection/",
   "license": "BSD-3-Clause",
   "author": {
